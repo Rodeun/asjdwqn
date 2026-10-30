@@ -1,0 +1,5 @@
+name: NetheriteScrapRepair
+version: 1.0.0
+main: kr.netheritescrap.NetheriteScrapRepair
+api-version: "1.21"
+description: Repair netherite gear with netherite scrap at an anvil, with configurable repair percent.
